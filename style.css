@@ -1,0 +1,22 @@
+@font-face {
+    font-family:riot ;
+    src: url(ProtestRiot-Regular.ttf)
+}
+
+p{
+    font-family:riot ;
+}
+@font-face {
+    font-family:fairplay ;
+    src: url(PlayfairDisplay-VariableFont_wght.ttf)
+}
+p{
+    font-family: fairplay;
+}
+#p1{
+    font-family: 'Workbench', sans-serif;
+}
+#p2{
+     font-family: 'Honk', system-ui;
+    
+}
